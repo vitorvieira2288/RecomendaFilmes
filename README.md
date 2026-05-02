@@ -31,9 +31,9 @@ O desempenho pode variar dependendo do tamanho do dataset
 Para grandes volumes de dados, recomenda-se otimizações adicionais
 
 Melhorias futuras possíveis
-Verificação mais profunda de bugs eventuais
-Adicionar capas dos filmes 
-Implementar busca por nome 
-Deploy em nuvem 
-Filtragem por gênero
-Sistema híbrido 
+* Verificação mais profunda de bugs eventuais
+* Adicionar capas dos filmes 
+* Implementar busca por nome 
+* Deploy em nuvem 
+* Filtragem por gênero
+* Sistema híbrido 
