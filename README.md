@@ -19,7 +19,7 @@ O sistema recomenda os filmes mais similares ao selecionado
 Como executar
 1. Clone o repositório
 git clone https://github.com/vitorvieira2288/RecomendaFilmes.git
-cd seu-repo
+
 2. Instale as dependências
 pip install pandas numpy scikit-learn streamlit
 3. Execute o app
