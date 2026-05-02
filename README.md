@@ -1,5 +1,5 @@
 Recomendador de Filmes com Streamlit
-
+ 
 
 * Este projeto implementa um sistema de recomendação de filmes a partir das avaliações de usuários do dataset MovieLens.
 * Dado um filme escolhido, o sistema sugere outros filmes semelhantes com base no comportamento coletivo dos usuários.
