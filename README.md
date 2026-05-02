@@ -20,13 +20,10 @@ Como executar
 1. Clone o repositório
 git clone https://github.com/vitorvieira2288/RecomendaFilmes.git
 cd seu-repo
-2. Crie um ambiente virtual (opcional, mas recomendado)
-python -m venv venv
-venv\Scripts\activate  # Windows
-3. Instale as dependências
+2. Instale as dependências
 pip install pandas numpy scikit-learn streamlit
-4. Execute o app
-streamlit run app.py
+3. Execute o app
+python -m streamlit run src/app.py  
 
 
 
